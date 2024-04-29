@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/core/assets/fonts/Carlito/Carlito-Bold.ttf",
+      "sha1": "ab7b60e2097a90cc0e4fb539f5d1e4466d09fe64"
+    },
+    {
+      "path": "src/core/assets/fonts/Carlito/Carlito-BoldItalic.ttf",
+      "sha1": "1b529eefcf5ac6b08c63fcbff920ae7981016493"
+    },
+    {
+      "path": "src/core/assets/fonts/Carlito/Carlito-Italic.ttf",
+      "sha1": "70d528b3510f4ef53974ba8f5d82392c850acfd5"
+    },
+    {
+      "path": "src/core/assets/fonts/Carlito/Carlito-Regular.ttf",
+      "sha1": "f093c96d46e0456704585ab7974e06afd42c0d19"
+    },
+    {
+      "path": "src/core/assets/fonts/Carlito/OFL.txt",
+      "sha1": "825cba4b0ce564184ece590cbcb112c621cd6360"
+    },
+    {
+      "path": "src/core/assets/fonts/index.ts",
+      "sha1": "bb8e59239c44a8391cd14d1dda576f3af2776ff9"
+    }
+  ]
+}

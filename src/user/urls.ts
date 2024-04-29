@@ -1,0 +1,6 @@
+export const USERS_SIGN_IN = "users/sign-in"
+export const USERS_CHECK_IN = "users/check-in"
+export const USERS_USER = "users/user"
+export const GOOGLE_MAP_API = "https://maps.googleapis.com/maps/api/geocode/json"
+export const USER_LOCATION = "shop/address/"
+export const USER_LOCATION_DETAIL = "shop/address/{id}/"
